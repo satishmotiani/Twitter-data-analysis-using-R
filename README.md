@@ -1,1 +1,1 @@
-# Twitter-data-analysis-using-R
+This is the analysis of twitter data for the #MarchForOurLives. The data has been collected with the help of twitteR library. Many different libraries have been used for purposes like cleaning the data, sentiment analysis, creating wordcloud, finding most common words and word association, finding range of tweets over time and other.
